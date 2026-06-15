@@ -1,5 +1,5 @@
 
-## 📌 Setup Instructions
+## 📌 Setup Instructions and Application Planning
 
 ### Prerequisites
 Make sure you have the following installed:
