@@ -63,3 +63,10 @@ Backend:  http://localhost:5000
 
 Architecture:
  [url_shortener_architecture_document.pdf](https://github.com/user-attachments/files/28947632/url_shortener_architecture_document.pdf)
+## Youtube video Link(Explanation Video):
+
+
+## Sample Output from the video file:
+ [snipora_documentation.pdf](https://github.com/user-attachments/files/28951195/snipora_documentation.pdf)
+
+## This project is a part of a hackathon run by https://katomaran.com
