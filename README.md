@@ -64,6 +64,8 @@ Backend:  http://localhost:5000
 Architecture:
  [url_shortener_architecture_document.pdf](https://github.com/user-attachments/files/28947632/url_shortener_architecture_document.pdf)
 ## Youtube video Link(Explanation Video):
+https://youtu.be/mMvLxDGfW04
+
 
 
 ## Sample Output from the video file:
